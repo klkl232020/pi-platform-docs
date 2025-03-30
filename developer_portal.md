@@ -1,6 +1,6 @@
 # Pi Developer Portal
 
-With the help of Pi SDK and Pi API, you can create applications that run within the Pi browser, which can be used by other Pioneers. Pi Developer Portal is where you can register and configure your apps so that it can be connected to the Pi Blockchain.
+With the help of Pi SDK and Pi API, you can create applications that run within the Pi browser, which can be used by other Pioneers. Pi Developer Portal is where you can register and configure your apps so that it can be connected to an the Pi Blockchain.
 
 ## How to register your app
 
